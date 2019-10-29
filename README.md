@@ -1,6 +1,8 @@
 # pumkin_spice
 Pumkin Spice game made in 3h for TriJam in Godot engine
 
+# play it here: https://jdzsk.itch.io/pumpkin-spice
+
 # Controls:
 
 Left and Right to move, Space to Shoot
